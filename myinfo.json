@@ -1,0 +1,13 @@
+{
+    "firstName":"jhon",
+    "lastName":"mayer",
+    "age":"31",
+    "address":{
+        "country":"IRAN",
+        "city":"TEHRAN",
+        "street":"Kaj Sq. - Tim St.",
+        "no":"51",
+    },
+    "phoneNO":"02184423712"    
+    
+}
